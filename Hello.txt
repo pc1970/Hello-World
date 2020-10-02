@@ -5,3 +5,6 @@ print “Hello World”;
 }}}}}
 
 }}}}}}
+Make greeting time dependent
+- print Good Day if hour is 3am – 5pm
+- print Good Evening if hour is 6pm – 2am
