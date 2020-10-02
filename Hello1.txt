@@ -1,8 +1,5 @@
 // Hello world
-void main() {
-print “Hello World”;
-}
-}}}}}
+
 
 }}}}}}
 Make greeting time dependent
